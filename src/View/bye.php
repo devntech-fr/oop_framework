@@ -1,4 +1,1 @@
-<?php
-require_once __DIR__.'/../../public/index.php';
-
-echo "Bye !";
+<h1>Bye bye page</h1>

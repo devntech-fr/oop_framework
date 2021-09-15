@@ -1,4 +1,1 @@
-<?php
-require_once __DIR__.'/../../public/index.php';
-
-echo "HOME";
+<h1>Coucou je suis la page d'accueil</h1>
